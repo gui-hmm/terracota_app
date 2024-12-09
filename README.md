@@ -35,11 +35,12 @@ O **TerraCota App** é um aplicativo desenvolvido em Flutter para uma loja de pr
    flutter run
    ```
 
-👥 Equipe de Desenvolvimento
+## 👥 Equipe de Desenvolvimento
+
 Este projeto foi desenvolvido por uma equipe dedicada e colaborativa:
 
 - Andressa Mota: Desenvolvedora Flutter
 - Guilherme Henrique: Desenvolvedor Flutter e Gerente de Projeto
-- Lucas Bernardino: Desenvolvedor Backend
-- Ketyllen Emylle: Designer e Desenvolvedora
+- Lucas Bernardino: Desenvolvedor Flutter
+- Ketyllen Emylle: Designer e Desenvolvedora Flutter
 - Welliana Carvalho: Desenvolvedora Flutter
